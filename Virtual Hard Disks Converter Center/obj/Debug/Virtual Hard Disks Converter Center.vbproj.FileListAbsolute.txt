@@ -1,0 +1,21 @@
+C:\Users\Stefano\AppData\Local\Temporary Projects\Virtual Hard Disks Converter Center\bin\Debug\Virtual Hard Disks Converter Center.exe
+C:\Users\Stefano\AppData\Local\Temporary Projects\Virtual Hard Disks Converter Center\bin\Debug\Virtual Hard Disks Converter Center.pdb
+C:\Users\Stefano\AppData\Local\Temporary Projects\Virtual Hard Disks Converter Center\bin\Debug\Virtual Hard Disks Converter Center.xml
+C:\Users\Stefano\AppData\Local\Temporary Projects\Virtual Hard Disks Converter Center\obj\Debug\Virtual Hard Disks Converter Center.vbprojResolveAssemblyReference.cache
+C:\Users\Stefano\AppData\Local\Temporary Projects\Virtual Hard Disks Converter Center\obj\Debug\Virtual_Hard_Disks_Converter_Center.Form1.resources
+C:\Users\Stefano\AppData\Local\Temporary Projects\Virtual Hard Disks Converter Center\obj\Debug\Virtual_Hard_Disks_Converter_Center.Resources.resources
+C:\Users\Stefano\AppData\Local\Temporary Projects\Virtual Hard Disks Converter Center\obj\Debug\Virtual Hard Disks Converter Center.vbproj.GenerateResource.Cache
+C:\Users\Stefano\AppData\Local\Temporary Projects\Virtual Hard Disks Converter Center\obj\Debug\Virtual Hard Disks Converter Center.exe
+C:\Users\Stefano\AppData\Local\Temporary Projects\Virtual Hard Disks Converter Center\obj\Debug\Virtual Hard Disks Converter Center.xml
+C:\Users\Stefano\AppData\Local\Temporary Projects\Virtual Hard Disks Converter Center\obj\Debug\Virtual Hard Disks Converter Center.pdb
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\obj\Debug\Virtual Hard Disks Converter Center.exe
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\obj\Debug\Virtual Hard Disks Converter Center.xml
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\obj\Debug\Virtual Hard Disks Converter Center.pdb
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\bin\Debug\Virtual Hard Disks Converter Center.exe
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\bin\Debug\Virtual Hard Disks Converter Center.pdb
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\bin\Debug\Virtual Hard Disks Converter Center.xml
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\obj\Debug\Virtual Hard Disks Converter Center.vbprojResolveAssemblyReference.cache
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\obj\Debug\Virtual_Hard_Disks_Converter_Center.Form1.resources
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\obj\Debug\Virtual_Hard_Disks_Converter_Center.Resources.resources
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\obj\Debug\Virtual Hard Disks Converter Center.vbproj.GenerateResource.Cache
+C:\Users\Stefano\Documents\Visual Studio 2015\Projects\Virtual Hard Disks Converter Center\Virtual Hard Disks Converter Center\obj\Debug\Virtual_Hard_Disks_Converter_Center.AboutBox.resources
