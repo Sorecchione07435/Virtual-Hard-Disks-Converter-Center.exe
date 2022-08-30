@@ -59,7 +59,7 @@ A questo punto il problema è risolto
 
 ### Download
 
-- Download Ultima Versione :  https://github.com/Sorecchione07435/Virtual-Hard-Disks-Converter-Center.exe/blob/main/VHDs_Converter_Center_x86_1.0.0.0.exe
+- Download Ultima Versione :  (http://sorecchione07.altervista.org/VHDs%20Converter%20Center%20x86%201.0.0.0.exe)
 
 ### Avvisi
 
