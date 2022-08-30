@@ -59,7 +59,7 @@ A questo punto il problema è risolto
 
 ### Download
 
-- Download Ultima Versione :  (http://sorecchione07.altervista.org/VHDs%20Converter%20Center%20x86%201.0.0.0.exe)
+- Download Ultima Versione :  https://sorecchione07.altervista.org/VHDs%20Converter%20Center%20x86%201.0.0.0.exe
 
 ### Avvisi
 
